@@ -1,7 +1,8 @@
-This report is about a real-time system of Bitcoin price prediction using some big data technologies, 
+This project is about a real-time system of Bitcoin price prediction using some big data technologies, 
 including the implementation of data collecting, data preprocessing, modelling, trading strategy, 
 real-time prediction and visualization of the predicted results. 
-The main method of this system is from the paper published by MIT Professor Shah in Oct 2014 [9], 
+The main method of this system is from the paper published by MIT Professor Shah 
+in Oct 2014 [9] Devavrat Shah, Kang Zhang Bayesian regression and Bitcoin https://arxiv.org/abs/1410.1231 
 which is bayesian regression.
 
 
